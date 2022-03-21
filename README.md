@@ -1,5 +1,6 @@
 # cooltings
-my projects i guess
+Interesting insights on certain Big Ideas nowadays...
+
 references in readme
 
 Project 1 - Bitcoin Trends
